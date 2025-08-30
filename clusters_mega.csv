@@ -1,24 +1,147 @@
 Cluster,Terms
-19,construct valuable visualizations;user study visualizations
-11,interactive detection tectonic;algorithm surface reconstruction;hardware accelerated occlusion;based orbifold visualization;contours efficiently;reconstruction based delaunay;ridge surface extraction;delaunay triangulation scatter
-13,3d visualization medicine;3d graphics visualization;3d displays experiments
-20,visual analysis geographically;urban visual analytics;integrating visualization geographic
-0,investigating cosmological datasets;early universe tracing
-3,trajectories clustering using;analysis mobility data
-4,cells order isosurface;mesh coded order
--1,surgery virtual endoscopy;visual cluster analysis;hierarchical point placement;insight chromatin movement;volumetric compositing implementation;generates pictorial visualizations;computation merge trees;bias important visualization;animated line charts;interaction techniques supporting;design proteins loops;interactive manipulation volumetric;gridded data sets;interactively disambiguate author;simulation political power;uncertainty aware visualization;stochastic neighbor embedding;visualization categorical changes;integral surfaces time;associations spurious confounding;touching actual 4d;3d spacecraft trajectories;journalists use data;densities based surface;identify concept drift;wavelet compression multiresolution;molecular interface approach;brain diffusion mri;matrix visualizations;volume data gpu;activity sculptures;support cognitive spatial;customer reviews controversial;volume lines interactive;topic competition model;ultrasound confidence maps;event visualization
-17,visualization multivariate data;multivariate data visualization;visual exploration multivariate
-16,wings visualizations;solar sail visualization
-21,dashboards analyzing data;visualization systems;information visualization;visual analytics;scientific visualization tool;visualizations interactively;visual analytics systems;visualization history tools
-7,perception scatterplot similarity;visually similar images;scatterplot diagnostics developed;cognitive metric color
-2,particle texture based;studying particle flow;horizontal motion textured;vector fields
-12,exploring faceted information;data exploration
-10,pleasing set visualization;visualizing sets
-8,adaptive mesh refinement;mesh reduction techniques;compression geometric structures;manifold control meshes;represented multiresolution meshes;based triangle meshes
-15,volume visualization;practical volume visualization
-14,volume rendering algorithms;direct volume rendering
-18,visualizing high dimensional;traditional multidimensional visualization
-9,computer tomography angiography;multimodal vessel flattening
-1,acoustic modeling demonstrated;ocean model simulations
-5,visualization demystifying basketball;formation analysis soccer
-6,simulation visualization optimization;objective optimization interactive
+102,construct valuable visualizations;visualization research uncertainty;assessing visualization value
+72,interactive detection tectonic;ridge surface extraction;extracting ridges valleys;filtered ridge extraction;behavior isosurface extraction
+38,3d visualization medicine;multimodal vessel flattening;3d artery representations;surfaces 3d ultrasound;visualization coronary anatomy;3d aneurysm surface;visualization facial surgery
+89,visual analysis geographically;urban visual analytics;visualize geographical
+10,investigating cosmological datasets;early universe tracing
+6,trajectories clustering using;analysis mobility data;fingerprinting based localization;designed burstiness internet;demographic categories geographical;urban human mobility;kinematic data iot;traffic jam information
+126,cells order isosurface;contours efficiently;mesh coded order;delaunay triangulation scatter;2d domain partitionings;large scale pathline;noisy point clouds;polygonal contours complex;simplified polygonal models;surface matching visualization;geometric substitution polytopes
+27,surgery virtual endoscopy;virtual endoscopy designed;virtual colonoscopy
+93,visualization multivariate data;visualizing high dimensional;multivariate data visualization;traditional multidimensional visualization;visual exploration multivariate;interactive exploration multivariate
+76,algorithm surface reconstruction;surface reconstruction;based surface simplification
+85,visual cluster analysis;clusters visualization;cluster visualization;dendrogram visualizes clustering;interactive cluster analysis;clustering dimensions visualization;bicluster visualizations
+56,hierarchical point placement;treemaps;spatial layout treemap;perceptually effective treemaps
+66,wings visualizations;solar sail visualization
+108,dashboards analyzing data;visual analytics;visual analytics systems;visualization visual analytics;visual analytics science;visual analytic tools;visual analytics human;interactive visual analytics
+23,insight chromatin movement;cytoscape
+130,perception scatterplot similarity;visualizing gaze patterns
+52,volumetric compositing implementation;volume rendering algorithms;direct volume rendering;volume rendering designed;volume rendering interface;accelerating volume rendering;traditional volume rendering;volumetric rendering;volumetric gas rendering;direct volume renderings;volume rendering scenes;volume rendering generalized
+20,particle texture based;studying particle flow;using particle tracing;flow fields statistical
+146,generates pictorial visualizations;exploring faceted information;data exploration;simulation visualization optimization;visualization history tools;visualize data surface;visualizing climate data;visual sentiment analysis;usability visualizations size;displays information retrieval;bead visualization employs;visualization data visceralization;harmony information landscape;graphs techniques themeriver;visual analytics classification;visual piling interfaces;simulative visual analytics;jigsaw visual analytic;visualization textual bayesian;visual debugging unstructured;visual context management;visual exploration measurement;business charts;expressive visualizations topologically;collaborative visual analysis;competing graphical designs;rankings advanced visual;interlinked data visualize;visual query systems;spatial visualization splatting;presentation navigation educational
+137,user study visualizations;visualization researchers eye;visualization researchers historians
+109,visualization systems;visualization analysis technologies;visualization interfaces
+9,computation merge trees;evolutionary trees;documents jigsaw computational;novel tree browser
+135,bias important visualization;visualizations involve comparisons
+53,animated line charts;progressive bar charts
+92,pleasing set visualization;visualizing sets
+78,adaptive mesh refinement;interpolation subdivision mesh;adaptive tessellation
+34,interaction techniques supporting;gesture interfaces
+41,design proteins loops;candidate molecules computational;molecular design;fitting protein atomistic;crystal structure predictor
+54,volume visualization;practical volume visualization;experimental volume visualization;volume visualization quantification
+-1,interactive manipulation volumetric;manifold control meshes;spinel minerals exploration;gaussian cubes precomputes;biological mesoscale interactive;word tree graphical;immersive analysis sports;trends using images;preference color palettes;flexible artificial heart;socialbrands novel visual;microsatellite genotypes;fund characteristics;graphics people blind;point feature labeling;arrangement readability network;animations parallel program;information color compositing;visualisations cyclical;waves networks neurons;visualizing evolution hypertext;cyclic hierarchical data;allows scientists interactively;earth science maps;compressed vector fields
+4,gridded data sets;data cubes
+28,interactively disambiguate author;discourse parser
+1,simulation political power;simulation model view;epidemic simulation episims
+73,uncertainty aware visualization;correlation visualization uncertainty;uncertainty visualization multidimensional;uncertainty visualization spaghetti
+24,stochastic neighbor embedding;embeddings quantify labeled
+136,visualization categorical changes;trend visualizations;composite indicator visualization
+43,hardware accelerated occlusion;line rendering illustrative;rendering illuminated lines;rendering techniques magnify;illustrative textures;rendering client server;techniques rendering transparent;acuity driven rendering;interactive visual realism
+123,integral surfaces time;approximating smooth surface;boundary interface reconstruction
+25,associations spurious confounding;customer reviews controversial;users defining cohorts;mitigating social biases;analyzing poll results
+114,touching actual 4d;3d displays experiments
+119,3d spacecraft trajectories;computed grids trajectories
+51,journalists use data;prepare infovis contest
+125,based orbifold visualization;globe draw arcs;visualizations planetary nebulae
+14,visually similar images;explore image datasets;perceptually based colormaps;comparing images datasets
+98,information visualization;information visualization literature;information visualizations
+124,densities based surface;interactive volumetric scattering
+112,identify concept drift;time varying features
+82,3d graphics visualization;3d visualization;3d views;visualize 3d scalar;4d visualization interface
+22,wavelet compression multiresolution;rendering wavelet representation;wavelet transforms;wavelets curvilinear grids
+33,computer tomography angiography;image data medicine;animal ct data;algorithms simulation radiographs
+68,scatterplot diagnostics developed;scatterplots visualization spatially;visualize 2d scatterplots;sampling scatterplots
+115,molecular interface approach;structure microvascular data;interactions reveal structural;connectivity nanoscale connectomics;morse connection graph
+79,mesh reduction techniques;mesh 2d simplicial;mesh simplification algorithms;3d mesh simplification;simplification tetrahedral meshes
+39,brain diffusion mri;diffusion tensor image;anisotropic nonlinear diffusion
+29,cognitive metric color;participants interpreted colormap
+132,integrating visualization geographic;cartogram based map;render complex landscapes;map miniature annotation;visually synthesising geography
+19,acoustic modeling demonstrated;geometric sound propagation
+84,scientific visualization tool;scientific visualization;visualizations informal science
+110,visualizations interactively;interactive visualization requires
+95,matrix visualizations;tabular visualizations
+75,reconstruction based delaunay;distributed isosurface reconstruction
+111,volume data gpu;volumetric datasets
+113,ocean model simulations;large scale simulations
+140,horizontal motion textured;pseudocolor animation visualize
+142,activity sculptures;exploring mathematical knots
+70,compression geometric structures;compression 3d geometry
+88,visualization demystifying basketball;visualizing data sports
+143,support cognitive spatial;gis truly immersive
+60,vector fields;animating vector fields;3d vector fields
+3,objective optimization interactive;evolutionary multi objective
+61,represented multiresolution meshes;tensor fields surfaces;hypersurfaces represented
+49,formation analysis soccer;analyzing players passing
+128,volume lines interactive;tube based visualization
+15,topic competition model;topics cooperate compete
+77,based triangle meshes;edges surfaces triangulations;unstructured tetrahedral meshes
+116,ultrasound confidence maps;visualization surfaces uncertainties
+65,event visualization;visualizing event patterns;visualize geo temporal;temporal event visualization
+103,visualization specifications;visualization systems layouts
+94,visualization comprehension makes;assessments visualization literacy;visualization reading experience;visualizations memorable;visualization sensemaking;visualization instructors;data visualization saliency
+45,represent dna nanostructures;representation dna tangible
+62,focus context visualization;visualization controlling navigation
+64,asynchronous collaborative analysis;data scientists profiling
+100,quality issues visualizations;optimizing visualization quality
+127,vector field visualization;correlation fields visualization
+13,deep generative;explainable machine learning;tuning hyperparameters deep;queries enable neuroscientists;transfer learning
+87,visualize large social;visualizing multivariate networks;visualization social network;visualize interaction networks;visualizations potential social;networks visualized node;visualizations influence trust
+2,representing ecosystem dynamics;landscape event simulator
+17,turbulent flow researchers;virtual physics laboratory;wind tunnel experiments;cfd solver;turbulent computational
+106,building visualizations;creating visualizations;visualization research perspectives
+97,data visualization;data visual representation;data visualizations;data visualization experts;visualization data mining
+86,nasa outreach visualizations;visualization presentation usgs;visualization regard mission
+26,visualize sequence folding;genomic sequences visually;visualization biological sequence
+138,multiple visualizations empowers;visualizations mobile friendly;visualization methods modular;combating visualization design
+71,news video visualization;video visualization
+141,differentiation multidimensional projections;layered depth images;surface visibility;sound rendering;photon maps
+63,flow visualization declarative;flow surface visualization;flow graph;flow map representations;visualization practical hydraulic
+36,lines encode uncertainty;uncertainty critical points
+134,visualizing information structures;information theory visualization;hierarchy visualization supports
+69,viewpoint haptic visualization;navigation 3d spaces
+118,spatiotemporal super resolution;morphing warping approaches
+21,based identifying swirling;vortices vortex detection
+42,deep learning visualization;visualize neuronal fiber;visualization neuronal structures;visualize confocal microscopy
+105,visualization designers;information visualization designers
+31,extracting meaningful clusters;meaningful clusters social
+107,advanced visualization;visualization need explored;visualization techniques including
+83,visualize network traffic;application trace visualizations;visualization network intrusion
+46,molecule visualization;protein structures interactive
+50,reality ar assistants;deeply virtual eyetracker;virtual reality modeling
+18,nasal airflow rhinomanometry;periodic breathing predicted;rnns electronic medical
+120,personal agency interaction;context monitoring sensemaking
+99,visualizations addressing decision;visualisation administrative justice
+133,narrative visualization;data driven storytelling
+30,color displays;colour target displays
+35,gaming input devices;using tactile mice
+101,graphical information compared;level comparative visualization
+96,visualized graphs;graphical data analysis;visualization large graphs;graphs visual representations;interactive graph visualization
+145,readability set intersections;imputation visual guidance
+104,visualization agent technology;visualization workflow systems
+11,wastewater systems regarded;data sediment contaminants
+121,prompt engineering chatbot;collaborative electronic workspace;java swing applications
+8,aircraft design;aerospace engineering design
+47,linear filters gpu;antialiasing algorithm voxel
+44,graph based ranking;graph structure;studies dense subgraphs
+91,glyph based visualization;wordle based visualization;visualizing text wordle
+16,museum visitors decoding;genealogical software display;digital collections archivists;multimedia database management
+74,unstructured volumetric grids;marching cubes
+48,distributed graphics processing;parallel rendering algorithm;multipipe scalable graphics
+131,color effectively visualizations;aesthetic pleasure visualizations
+40,tissue visualization tensor;tensor mri
+55,visualization volumetric datasets;visualizing volumetric data
+80,terrain visualization;seabed visualization developed;visualising terrain topographic
+32,automotive functional safety;situational awareness continuous
+90,immersive analytics;environment visual analytics
+58,event sequence data;event patterns data
+117,aggregation binning;visual separation clusters
+67,visualizing simulated air;visualize clouds wind
+0,morphing projector gamut;reconfigurable multi projector
+129,visualization plant growth;dimensional images plant
+12,weather prediction ensembles;climate data enables
+7,abstract keynote presentation;inspirational speech effectiveness
+5,time series datasets;create synthetic datasets
+59,finding temporal patterns;finding temporal trends
+57,detect anomalies surveillance;anomalous users unsupervised;clickstream analysis patterns
+37,tag cloud;badge network
+139,visualizations visualization fixer;visualization authoring interfaces;tool supports visualization
+81,semantic technologies;crowdsourced schematization sensemaking
